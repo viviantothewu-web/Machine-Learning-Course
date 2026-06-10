@@ -1,5 +1,5 @@
 Machine Learning with Python
-A collection of assignments from the Machine Learning with Python mini-course, part of the On-Ramp program.
+
 About the Course
 This course covers the basics of Python and extends them to key packages like Matplotlib and Scikit-learn, exploring different types of classifications and classifiers used in machine learning.
 Learning Outcomes
